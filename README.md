@@ -403,7 +403,7 @@ X_train_group_by_label_count.plot(kind='bar', figsize=(15,17))
 
 
 
-![png](output_16_1.png)
+![png](./images/output_16_1.png)
 
 
 This confirms the significant class imbalance we observed earlier. At this stage we will not attempt to address it.
@@ -419,175 +419,175 @@ show_random_datasets_images(X_train_group_by_label, X_train)
 ```
 
 
-![png](output_18_0.png)
+![png](./images/output_18_0.png)
 
 
 
-![png](output_18_1.png)
+![png](./images/output_18_1.png)
 
 
 
-![png](output_18_2.png)
+![png](./images/output_18_2.png)
 
 
 
-![png](output_18_3.png)
+![png](./images/output_18_3.png)
 
 
 
-![png](output_18_4.png)
+![png](./images/output_18_4.png)
 
 
 
-![png](output_18_5.png)
+![png](./images/output_18_5.png)
 
 
 
-![png](output_18_6.png)
+![png](./images/output_18_6.png)
 
 
 
-![png](output_18_7.png)
+![png](./images/output_18_7.png)
 
 
 
-![png](output_18_8.png)
+![png](./images/output_18_8.png)
 
 
 
-![png](output_18_9.png)
+![png](./images/output_18_9.png)
 
 
 
-![png](output_18_10.png)
+![png](./images/output_18_10.png)
 
 
 
-![png](output_18_11.png)
+![png](./images/output_18_11.png)
 
 
 
-![png](output_18_12.png)
+![png](./images/output_18_12.png)
 
 
 
-![png](output_18_13.png)
+![png](./images/output_18_13.png)
 
 
 
-![png](output_18_14.png)
+![png](./images/output_18_14.png)
 
 
 
-![png](output_18_15.png)
+![png](./images/output_18_15.png)
 
 
 
-![png](output_18_16.png)
+![png](./images/output_18_16.png)
 
 
 
-![png](output_18_17.png)
+![png](./images/output_18_17.png)
 
 
 
-![png](output_18_18.png)
+![png](./images/output_18_18.png)
 
 
 
-![png](output_18_19.png)
+![png](./images/output_18_19.png)
 
 
 
-![png](output_18_20.png)
+![png](./images/output_18_20.png)
 
 
 
-![png](output_18_21.png)
+![png](./images/output_18_21.png)
 
 
 
-![png](output_18_22.png)
+![png](./images/output_18_22.png)
 
 
 
-![png](output_18_23.png)
+![png](./images/output_18_23.png)
 
 
 
-![png](output_18_24.png)
+![png](./images/output_18_24.png)
 
 
 
-![png](output_18_25.png)
+![png](./images/output_18_25.png)
 
 
 
-![png](output_18_26.png)
+![png](./images/output_18_26.png)
 
 
 
-![png](output_18_27.png)
+![png](./images/output_18_27.png)
 
 
 
-![png](output_18_28.png)
+![png](./images/output_18_28.png)
 
 
 
-![png](output_18_29.png)
+![png](./images/output_18_29.png)
 
 
 
-![png](output_18_30.png)
+![png](./images/output_18_30.png)
 
 
 
-![png](output_18_31.png)
+![png](./images/output_18_31.png)
 
 
 
-![png](output_18_32.png)
+![png](./images/output_18_32.png)
 
 
 
-![png](output_18_33.png)
+![png](./images/output_18_33.png)
 
 
 
-![png](output_18_34.png)
+![png](./images/output_18_34.png)
 
 
 
-![png](output_18_35.png)
+![png](./images/output_18_35.png)
 
 
 
-![png](output_18_36.png)
+![png](./images/output_18_36.png)
 
 
 
-![png](output_18_37.png)
+![png](./images/output_18_37.png)
 
 
 
-![png](output_18_38.png)
+![png](./images/output_18_38.png)
 
 
 
-![png](output_18_39.png)
+![png](./images/output_18_39.png)
 
 
 
-![png](output_18_40.png)
+![png](./images/output_18_40.png)
 
 
 
-![png](output_18_41.png)
+![png](./images/output_18_41.png)
 
 
 
-![png](output_18_42.png)
+![png](./images/output_18_42.png)
 
 
 ### Validation Set <a name="9"></a>
@@ -736,7 +736,7 @@ X_valid_group_by_label_count.plot(kind='bar', figsize=(15,7))
 
 
 
-![png](output_23_1.png)
+![png](./images/output_23_1.png)
 
 
 We also observe significant imbalance in the validation set. This is less of a problem as we do not train our data on it.
@@ -751,175 +751,175 @@ show_random_datasets_images(X_valid_group_by_label, X_valid)
 ```
 
 
-![png](output_25_0.png)
+![png](./images/output_25_0.png)
 
 
 
-![png](output_25_1.png)
+![png](./images/output_25_1.png)
 
 
 
-![png](output_25_2.png)
+![png](./images/output_25_2.png)
 
 
 
-![png](output_25_3.png)
+![png](./images/output_25_3.png)
 
 
 
-![png](output_25_4.png)
+![png](./images/output_25_4.png)
 
 
 
-![png](output_25_5.png)
+![png](./images/output_25_5.png)
 
 
 
-![png](output_25_6.png)
+![png](./images/output_25_6.png)
 
 
 
-![png](output_25_7.png)
+![png](./images/output_25_7.png)
 
 
 
-![png](output_25_8.png)
+![png](./images/output_25_8.png)
 
 
 
-![png](output_25_9.png)
+![png](./images/output_25_9.png)
 
 
 
-![png](output_25_10.png)
+![png](./images/output_25_10.png)
 
 
 
-![png](output_25_11.png)
+![png](./images/output_25_11.png)
 
 
 
-![png](output_25_12.png)
+![png](./images/output_25_12.png)
 
 
 
-![png](output_25_13.png)
+![png](./images/output_25_13.png)
 
 
 
-![png](output_25_14.png)
+![png](./images/output_25_14.png)
 
 
 
-![png](output_25_15.png)
+![png](./images/output_25_15.png)
 
 
 
-![png](output_25_16.png)
+![png](./images/output_25_16.png)
 
 
 
-![png](output_25_17.png)
+![png](./images/output_25_17.png)
 
 
 
-![png](output_25_18.png)
+![png](./images/output_25_18.png)
 
 
 
-![png](output_25_19.png)
+![png](./images/output_25_19.png)
 
 
 
-![png](output_25_20.png)
+![png](./images/output_25_20.png)
 
 
 
-![png](output_25_21.png)
+![png](./images/output_25_21.png)
 
 
 
-![png](output_25_22.png)
+![png](./images/output_25_22.png)
 
 
 
-![png](output_25_23.png)
+![png](./images/output_25_23.png)
 
 
 
-![png](output_25_24.png)
+![png](./images/output_25_24.png)
 
 
 
-![png](output_25_25.png)
+![png](./images/output_25_25.png)
 
 
 
-![png](output_25_26.png)
+![png](./images/output_25_26.png)
 
 
 
-![png](output_25_27.png)
+![png](./images/output_25_27.png)
 
 
 
-![png](output_25_28.png)
+![png](./images/output_25_28.png)
 
 
 
-![png](output_25_29.png)
+![png](./images/output_25_29.png)
 
 
 
-![png](output_25_30.png)
+![png](./images/output_25_30.png)
 
 
 
-![png](output_25_31.png)
+![png](./images/output_25_31.png)
 
 
 
-![png](output_25_32.png)
+![png](./images/output_25_32.png)
 
 
 
-![png](output_25_33.png)
+![png](./images/output_25_33.png)
 
 
 
-![png](output_25_34.png)
+![png](./images/output_25_34.png)
 
 
 
-![png](output_25_35.png)
+![png](./images/output_25_35.png)
 
 
 
-![png](output_25_36.png)
+![png](./images/output_25_36.png)
 
 
 
-![png](output_25_37.png)
+![png](./images/output_25_37.png)
 
 
 
-![png](output_25_38.png)
+![png](./images/output_25_38.png)
 
 
 
-![png](output_25_39.png)
+![png](./images/output_25_39.png)
 
 
 
-![png](output_25_40.png)
+![png](./images/output_25_40.png)
 
 
 
-![png](output_25_41.png)
+![png](./images/output_25_41.png)
 
 
 
-![png](output_25_42.png)
+![png](./images/output_25_42.png)
 
 
 ## 3. Create a sample set <a name="13"></a>
@@ -981,7 +981,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_1.png)
+![png](./images/output_31_1.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -992,7 +992,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_3.png)
+![png](./images/output_31_3.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1003,7 +1003,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_5.png)
+![png](./images/output_31_5.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1014,7 +1014,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_7.png)
+![png](./images/output_31_7.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1025,7 +1025,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_9.png)
+![png](./images/output_31_9.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1036,7 +1036,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_11.png)
+![png](./images/output_31_11.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1047,7 +1047,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_13.png)
+![png](./images/output_31_13.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1058,7 +1058,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_15.png)
+![png](./images/output_31_15.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1069,7 +1069,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_17.png)
+![png](./images/output_31_17.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1080,7 +1080,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_19.png)
+![png](./images/output_31_19.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1091,7 +1091,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_21.png)
+![png](./images/output_31_21.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1102,7 +1102,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_23.png)
+![png](./images/output_31_23.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1113,7 +1113,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_25.png)
+![png](./images/output_31_25.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1124,7 +1124,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_27.png)
+![png](./images/output_31_27.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1135,7 +1135,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_29.png)
+![png](./images/output_31_29.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1146,7 +1146,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_31.png)
+![png](./images/output_31_31.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1157,7 +1157,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_33.png)
+![png](./images/output_31_33.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1168,7 +1168,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_35.png)
+![png](./images/output_31_35.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1179,7 +1179,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_37.png)
+![png](./images/output_31_37.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1190,7 +1190,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_39.png)
+![png](./images/output_31_39.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1201,7 +1201,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_41.png)
+![png](./images/output_31_41.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1212,7 +1212,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_43.png)
+![png](./images/output_31_43.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1223,7 +1223,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_45.png)
+![png](./images/output_31_45.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1234,7 +1234,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_47.png)
+![png](./images/output_31_47.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1245,7 +1245,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_49.png)
+![png](./images/output_31_49.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1256,7 +1256,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_51.png)
+![png](./images/output_31_51.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1267,7 +1267,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_53.png)
+![png](./images/output_31_53.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1278,7 +1278,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_55.png)
+![png](./images/output_31_55.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1289,7 +1289,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_57.png)
+![png](./images/output_31_57.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1300,7 +1300,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_59.png)
+![png](./images/output_31_59.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1311,7 +1311,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_61.png)
+![png](./images/output_31_61.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1322,7 +1322,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_63.png)
+![png](./images/output_31_63.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1333,7 +1333,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_65.png)
+![png](./images/output_31_65.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1344,7 +1344,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_67.png)
+![png](./images/output_31_67.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1355,7 +1355,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_69.png)
+![png](./images/output_31_69.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1366,7 +1366,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_71.png)
+![png](./images/output_31_71.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1377,7 +1377,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_73.png)
+![png](./images/output_31_73.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1388,7 +1388,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_75.png)
+![png](./images/output_31_75.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1399,7 +1399,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_77.png)
+![png](./images/output_31_77.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1410,7 +1410,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_79.png)
+![png](./images/output_31_79.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1421,7 +1421,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_81.png)
+![png](./images/output_31_81.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1432,7 +1432,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_83.png)
+![png](./images/output_31_83.png)
 
 
     Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers).
@@ -1443,7 +1443,7 @@ show_random_datasets_images(X_valid_group_by_label, X_valid_normalised)
 
 
 
-![png](output_31_85.png)
+![png](./images/output_31_85.png)
 
 
 ### Grayscale <a name="17"></a>
@@ -1456,175 +1456,175 @@ show_random_datasets_images(X_train_group_by_label, X_train_grayscale)
 ```
 
 
-![png](output_33_0.png)
+![png](./images/output_33_0.png)
 
 
 
-![png](output_33_1.png)
+![png](./images/output_33_1.png)
 
 
 
-![png](output_33_2.png)
+![png](./images/output_33_2.png)
 
 
 
-![png](output_33_3.png)
+![png](./images/output_33_3.png)
 
 
 
-![png](output_33_4.png)
+![png](./images/output_33_4.png)
 
 
 
-![png](output_33_5.png)
+![png](./images/output_33_5.png)
 
 
 
-![png](output_33_6.png)
+![png](./images/output_33_6.png)
 
 
 
-![png](output_33_7.png)
+![png](./images/output_33_7.png)
 
 
 
-![png](output_33_8.png)
+![png](./images/output_33_8.png)
 
 
 
-![png](output_33_9.png)
+![png](./images/output_33_9.png)
 
 
 
-![png](output_33_10.png)
+![png](./images/output_33_10.png)
 
 
 
-![png](output_33_11.png)
+![png](./images/output_33_11.png)
 
 
 
-![png](output_33_12.png)
+![png](./images/output_33_12.png)
 
 
 
-![png](output_33_13.png)
+![png](./images/output_33_13.png)
 
 
 
-![png](output_33_14.png)
+![png](./images/output_33_14.png)
 
 
 
-![png](output_33_15.png)
+![png](./images/output_33_15.png)
 
 
 
-![png](output_33_16.png)
+![png](./images/output_33_16.png)
 
 
 
-![png](output_33_17.png)
+![png](./images/output_33_17.png)
 
 
 
-![png](output_33_18.png)
+![png](./images/output_33_18.png)
 
 
 
-![png](output_33_19.png)
+![png](./images/output_33_19.png)
 
 
 
-![png](output_33_20.png)
+![png](./images/output_33_20.png)
 
 
 
-![png](output_33_21.png)
+![png](./images/output_33_21.png)
 
 
 
-![png](output_33_22.png)
+![png](./images/output_33_22.png)
 
 
 
-![png](output_33_23.png)
+![png](./images/output_33_23.png)
 
 
 
-![png](output_33_24.png)
+![png](./images/output_33_24.png)
 
 
 
-![png](output_33_25.png)
+![png](./images/output_33_25.png)
 
 
 
-![png](output_33_26.png)
+![png](./images/output_33_26.png)
 
 
 
-![png](output_33_27.png)
+![png](./images/output_33_27.png)
 
 
 
-![png](output_33_28.png)
+![png](./images/output_33_28.png)
 
 
 
-![png](output_33_29.png)
+![png](./images/output_33_29.png)
 
 
 
-![png](output_33_30.png)
+![png](./images/output_33_30.png)
 
 
 
-![png](output_33_31.png)
+![png](./images/output_33_31.png)
 
 
 
-![png](output_33_32.png)
+![png](./images/output_33_32.png)
 
 
 
-![png](output_33_33.png)
+![png](./images/output_33_33.png)
 
 
 
-![png](output_33_34.png)
+![png](./images/output_33_34.png)
 
 
 
-![png](output_33_35.png)
+![png](./images/output_33_35.png)
 
 
 
-![png](output_33_36.png)
+![png](./images/output_33_36.png)
 
 
 
-![png](output_33_37.png)
+![png](./images/output_33_37.png)
 
 
 
-![png](output_33_38.png)
+![png](./images/output_33_38.png)
 
 
 
-![png](output_33_39.png)
+![png](./images/output_33_39.png)
 
 
 
-![png](output_33_40.png)
+![png](./images/output_33_40.png)
 
 
 
-![png](output_33_41.png)
+![png](./images/output_33_41.png)
 
 
 
-![png](output_33_42.png)
+![png](./images/output_33_42.png)
 
 
 We can see that grascalling somewhat improves teh visibility of the images, but some of them
@@ -2138,7 +2138,7 @@ plot_model_results(metrics_arr, [2,1], lbs, ["Epochs", "Epochs"], ["Accuracy", "
 
 
 
-![png](output_49_1.png)
+![png](./images/output_49_1.png)
 
 
 #### Color Full Dataset <a name="24"></a>
@@ -2221,7 +2221,7 @@ plot_model_results(metrics_arr, [2, 1], lbs, ["Epochs", "Epochs"], ["Accuracy", 
 
 
 
-![png](output_54_1.png)
+![png](./images/output_54_1.png)
 
 
 Interesting, the 5x5 model is the one that shows the most overfit, and produces significantly higher losses than the 3x3 model. This could be due to the fact that we have a deeper network that uses less coarse convolutions and therefore is able to extract more features. We are next going to test the model on grayscale images.
@@ -2313,7 +2313,7 @@ plot_model_results(metrics_arr, [2,1], lbs, ["Epochs", "Epochs"], ["Accuracy", "
 
 
 
-![png](output_62_1.png)
+![png](./images/output_62_1.png)
 
 
 Once again, the 3x3 model outperforms the 5x5 one on validation and test accuracy. We can see that both models' validation losses are increasing as the training accuracy improves. This is a strong suggestion that overfitting is occuring.
@@ -2402,7 +2402,7 @@ plot_model_results(metrics_arr, [2, 1], lbs, ["Epochs", "Epochs"], ["Accuracy", 
 
 
 
-![png](output_68_1.png)
+![png](./images/output_68_1.png)
 
 
 The 3x3 still achieve better performance than the 5x5. It can be observed that overfitting happen much more quickly with the 5x5 model. We turn next to grayscale normalised images.
@@ -2494,7 +2494,7 @@ plot_model_results(metrics_arr, [2,1], lbs, ["Epochs", "Epochs"], ["Accuracy", "
 
 
 
-![png](output_74_1.png)
+![png](./images/output_74_1.png)
 
 
 Both models achieve a fair test accuracy at around 92.4%. It's time to try Dropout in our model.
@@ -2582,7 +2582,7 @@ plot_model_results(metrics_arr, [2, 1], lbs, ["Epochs", "Epochs"], ["Accuracy", 
 
 
 
-![png](output_80_1.png)
+![png](./images/output_80_1.png)
 
 
 We are seeing some great results with the introduction of dropout. The 5x5 model achieves above 96% accuracy while the 3x3 model achieves over 97% test accuracy. We should get similar, if not better results, with grayscale images.
@@ -2732,7 +2732,7 @@ plot_model_results(metrics_arr, [2, 1], lbs, ["Epochs", "Epochs"], ["Accuracy", 
 
 
 
-![png](output_90_1.png)
+![png](./images/output_90_1.png)
 
 
 Both models show smooth, satisfying on the curves. The 3x3 model clearly seems to perform the best. While we are able to score above 98% accuracy on vaidation set, we have not been able to break through this barrier yet on the test set, but we are close!
@@ -2815,7 +2815,7 @@ plot_model_results(metrics_arr, [2, 1], lbs, ["Epochs", "Epochs"], ["Accuracy", 
 
 
 
-![png](output_96_1.png)
+![png](./images/output_96_1.png)
 
 
 Color and grayscale images exhibit very similar behaviour, with maybe the advantage for grayscale, lower losses on test accuracy. At this stage we are unable to pick between grayscale or color for the input images since we obtain very similar results in both cases. Maybe color is not much of an issue in fact if the model performs so well on grayscale images? We will next turn to augmenting images and explore whether we can reach better results by randomly applying distortions to our images.
@@ -2838,7 +2838,7 @@ plt.imshow(g_img, cmap='gray')
 
 
 
-![png](output_99_1.png)
+![png](./images/output_99_1.png)
 
 
 
@@ -2856,7 +2856,7 @@ plt.imshow(cl1, cmap='gray')
 
 
 
-![png](output_100_1.png)
+![png](./images/output_100_1.png)
 
 
 
@@ -2868,11 +2868,11 @@ show_image_list([g_img, cl1, cl2], ["L0", "L1", "L2"], "", cols=3, fig_size=(8,8
 ```
 
 
-![png](output_101_0.png)
+![png](./images/output_101_0.png)
 
 
 
-![png](output_101_1.png)
+![png](./images/output_101_1.png)
 
 
 We choose CLAHE with grid size of 2x2 and climit limit of 15
@@ -2894,7 +2894,7 @@ show_image_list(X_train_grayscale_equalized[16000:16010], y_train[16000:16010], 
 ```
 
 
-![png](output_104_0.png)
+![png](./images/output_104_0.png)
 
 
 ### Model evaluation <a name="36"></a>
@@ -3008,7 +3008,7 @@ plot_model_results(metrics_arr, [2, 1], lbs, ["Epochs", "Epochs"], ["Accuracy", 
 
 
 
-![png](output_113_1.png)
+![png](./images/output_113_1.png)
 
 
 The 3x3 model performs better, topping 93% test accuracy, but we can see on the graph of Loss vs Epochs that our models losses increase as the epochs go by, which would indicate that we are overfitting and no working hard enough to extract features that generalise. We will try applying aggressive dropout values, with the hope that this helps alleviate the loss and improve the accuracy.
@@ -3221,7 +3221,7 @@ show_image_list(bad_test_pred_imgs[idx], bad_test_pred_incorrect_lb, "Bad test p
 ```
 
 
-![png](output_126_0.png)
+![png](./images/output_126_0.png)
 
 
 Some of the images are very blurry, despite our histogram equalization, while others seem distorted. We turn to data augmentation to address these isssues.
@@ -3306,7 +3306,7 @@ in Augmented Dataset")
 
 
 
-![png](output_132_1.png)
+![png](./images/output_132_1.png)
 
 
 We have managed to mitigate the gaping imbalance we originally observed, but it is still painfully obvious. We decided to temper our augmentation ambitions as we did not want the model to overwhelmingly learn about augmented images, to the detriment of real images. That's a hard balance to strike in all fairness but we believe we have some interesting results. Now every class has at least 10% of its dataset augmented. Our assumption is that our network should now perform better. Let's put it to the test. The below shows visuals of the new dataset, with some images having been augmented by the steps above.
@@ -3319,175 +3319,175 @@ show_random_datasets_images(X_train_augs_group_by_label, X_train_augs)
 ```
 
 
-![png](output_134_0.png)
+![png](./images/output_134_0.png)
 
 
 
-![png](output_134_1.png)
+![png](./images/output_134_1.png)
 
 
 
-![png](output_134_2.png)
+![png](./images/output_134_2.png)
 
 
 
-![png](output_134_3.png)
+![png](./images/output_134_3.png)
 
 
 
-![png](output_134_4.png)
+![png](./images/output_134_4.png)
 
 
 
-![png](output_134_5.png)
+![png](./images/output_134_5.png)
 
 
 
-![png](output_134_6.png)
+![png](./images/output_134_6.png)
 
 
 
-![png](output_134_7.png)
+![png](./images/output_134_7.png)
 
 
 
-![png](output_134_8.png)
+![png](./images/output_134_8.png)
 
 
 
-![png](output_134_9.png)
+![png](./images/output_134_9.png)
 
 
 
-![png](output_134_10.png)
+![png](./images/output_134_10.png)
 
 
 
-![png](output_134_11.png)
+![png](./images/output_134_11.png)
 
 
 
-![png](output_134_12.png)
+![png](./images/output_134_12.png)
 
 
 
-![png](output_134_13.png)
+![png](./images/output_134_13.png)
 
 
 
-![png](output_134_14.png)
+![png](./images/output_134_14.png)
 
 
 
-![png](output_134_15.png)
+![png](./images/output_134_15.png)
 
 
 
-![png](output_134_16.png)
+![png](./images/output_134_16.png)
 
 
 
-![png](output_134_17.png)
+![png](./images/output_134_17.png)
 
 
 
-![png](output_134_18.png)
+![png](./images/output_134_18.png)
 
 
 
-![png](output_134_19.png)
+![png](./images/output_134_19.png)
 
 
 
-![png](output_134_20.png)
+![png](./images/output_134_20.png)
 
 
 
-![png](output_134_21.png)
+![png](./images/output_134_21.png)
 
 
 
-![png](output_134_22.png)
+![png](./images/output_134_22.png)
 
 
 
-![png](output_134_23.png)
+![png](./images/output_134_23.png)
 
 
 
-![png](output_134_24.png)
+![png](./images/output_134_24.png)
 
 
 
-![png](output_134_25.png)
+![png](./images/output_134_25.png)
 
 
 
-![png](output_134_26.png)
+![png](./images/output_134_26.png)
 
 
 
-![png](output_134_27.png)
+![png](./images/output_134_27.png)
 
 
 
-![png](output_134_28.png)
+![png](./images/output_134_28.png)
 
 
 
-![png](output_134_29.png)
+![png](./images/output_134_29.png)
 
 
 
-![png](output_134_30.png)
+![png](./images/output_134_30.png)
 
 
 
-![png](output_134_31.png)
+![png](./images/output_134_31.png)
 
 
 
-![png](output_134_32.png)
+![png](./images/output_134_32.png)
 
 
 
-![png](output_134_33.png)
+![png](./images/output_134_33.png)
 
 
 
-![png](output_134_34.png)
+![png](./images/output_134_34.png)
 
 
 
-![png](output_134_35.png)
+![png](./images/output_134_35.png)
 
 
 
-![png](output_134_36.png)
+![png](./images/output_134_36.png)
 
 
 
-![png](output_134_37.png)
+![png](./images/output_134_37.png)
 
 
 
-![png](output_134_38.png)
+![png](./images/output_134_38.png)
 
 
 
-![png](output_134_39.png)
+![png](./images/output_134_39.png)
 
 
 
-![png](output_134_40.png)
+![png](./images/output_134_40.png)
 
 
 
-![png](output_134_41.png)
+![png](./images/output_134_41.png)
 
 
 
-![png](output_134_42.png)
+![png](./images/output_134_42.png)
 
 
 ### Evaluating model on augmented dataset  <a name="42"></a>
@@ -4288,7 +4288,7 @@ show_image_list(new_imgs, new_img_lbs_text, "New Traffic Sign Images (Color)", c
 ```
 
 
-![png](output_167_0.png)
+![png](./images/output_167_0.png)
 
 
 
@@ -4298,7 +4298,7 @@ show_image_list(new_imgs_grayscale_clahe, new_img_lbs_text, "New Traffic Sign Im
 ```
 
 
-![png](output_168_0.png)
+![png](./images/output_168_0.png)
 
 
 The images are chosen because of the following:
@@ -4475,7 +4475,7 @@ show_imgs_softmax_probs(new_imgs, new_img_grayscale_clahe_norm_softmax_and_label
 ```
 
 
-![png](output_185_0.png)
+![png](./images/output_185_0.png)
 
 
 We can clearly see that our model quite confident in its predictions. In the worst case, which is the last image, the most likely prediction has a probability of around 10<sup>-5</sup>. This is probably because the image is actually not even a real picture. Overall, we have developed a strong model.
@@ -4502,7 +4502,7 @@ me_g_augs_clahe_norm_take3_drpt_0_50_3x3.show_conv_feature_map(selected_new_img,
 
 
 
-![png](output_188_1.png)
+![png](./images/output_188_1.png)
 
 
 We can see that the network is focusing a lot on the edges of the circle and somehow on the 120. The background is ignored.
@@ -4519,7 +4519,7 @@ me_g_augs_clahe_norm_take3_drpt_0_50_3x3.show_conv_feature_map(selected_new_img,
 
 
 
-![png](output_190_1.png)
+![png](./images/output_190_1.png)
 
 
 It is rather hard to determine what the network is focusing on in layer 1, but it seems to "activate" around the edges of the circle and in the middle, where our 120 is printed.
@@ -4536,7 +4536,7 @@ me_g_augs_clahe_norm_take3_drpt_0_50_3x3.show_conv_feature_map(selected_new_img,
 
 
 
-![png](output_192_1.png)
+![png](./images/output_192_1.png)
 
 
 This activation map is also hard to decipher... But it seems the network reacts to stimuli on the edges and in the middle once again.
