@@ -1,5 +1,5 @@
 
-# Project: Build a Traffic Sign Recognition Classifier with 98% Accuracy
+# Build a Traffic Sign Recognition Classifier with 98% Accuracy
 
 ![icon_image](./images/softmax_probability.png)
 
